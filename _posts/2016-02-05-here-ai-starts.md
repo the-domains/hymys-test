@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T05:38:22.460Z'
-dateModified: '2016-02-05T05:37:59.335Z'
+datePublished: '2016-02-05T19:16:20.459Z'
+dateModified: '2016-02-05T19:16:19.174Z'
 title: Here AI starts
 author: []
 authors: []
@@ -23,3 +23,5 @@ _type: Article
 
 ---
 This is now a test of how well this site could work with my needs
+
+With all this power lets see what kind of crazy things a person can make with this.
