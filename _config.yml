@@ -1,6 +1,6 @@
 name: Hymys Test
 favicon: null
-layout_spectrum: 0.8575149199459702
+layout_spectrum: 0.17841
 typography_spectrum: 0.6202611674088985
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.14988149609416723
-  lightness: 0.780830952571705
-  saturation: 0.015962025383487344
-  rhythmicContrast: 0.8674702702555805
+    - '#f3ec18'
+    - '#ffffff'
+    - '#000000'
+    - '#6e6b0b'
+    - '#b7b212'
+  brandStrength: 0.125
+  lightness: 0.75
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
